@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\Release\Kütüphane_Otomasyonu.exe.config
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\Release\Kütüphane_Otomasyonu.exe
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\bin\Release\Kütüphane_Otomasyonu.pdb
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Form2.resources
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Form3.resources
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Form4.resources
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Form5.resources
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Form6.resources
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.exe
+C:\Users\ASUS\Desktop\Kutuphane-Otomasyonu-master\Kütüphane_Otomasyonu\obj\Release\Kütüphane_Otomasyonu.pdb
